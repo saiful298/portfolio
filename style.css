@@ -32,6 +32,18 @@ section {
     font-weight: 700;
 }
 
-.top-banner {
-    background-image: url();
+#hr {
+    box-shadow: 10px 10px;
+}
+
+.full-width {
+    width: 50%;
+}
+
+.full-width img {
+    width: 70%;
+}
+
+.deel {
+    font-size: 30px;
 }
