@@ -47,3 +47,16 @@ section {
 .deel {
     font-size: 30px;
 }
+
+.green {
+    color: rgb(6, 179, 6);
+}
+
+.skill {
+    width: 40%;
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 80px;
+    padding-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+}
